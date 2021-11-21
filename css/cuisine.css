@@ -1,0 +1,110 @@
+
+
+
+.company h1 {
+    font-size: 2.0em;
+    font-family: 'Inria Serif', serif;
+    color: rgb(85,68,55);
+    padding: 1px 20px;
+
+}
+
+.navbar a {
+    font-size: 3em;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(85,68,55);
+    
+}
+
+.nav-item a{
+    font-size: 1.0em;
+    font-family: 'Inria Serif', serif;  
+}
+
+
+.presentation{
+    font-size: 1.4em;
+    font-family: 'Inria Serif', serif;
+    text-align: center;
+    color: rgb(85,68,55);
+    text-transform:uppercase;
+
+}
+.presentation2{
+    font-size: 1.2em;
+    font-family: 'Inria Serif', serif;
+    text-align: center;
+    color: rgb(140, 138, 137);
+    
+}
+
+.menu p {
+    font-size: 2.0em;
+    text-align: center;
+    font-family: 'Inria Serif', serif;
+    font-weight: 900;
+    color: rgb(99,66,36);
+}
+
+/*--------------------------------------------------------------
+# About
+--------------------------------------------------------------*/
+.presentation3{
+    font-size: 1.0em;
+    font-family: 'Work Sans', sans-serif;
+    text-align: left;
+    color: rgb(106, 105, 104);
+    
+}
+.trait_dessous{
+border-bottom: 1px solid #000; 
+line-height: 0.3em;
+margin: 10px 0 20px; 
+
+}
+
+/*--------------------------------------------------------------
+# LINK
+--------------------------------------------------------------*/
+
+.lien  {
+    font-size: 1.0em;
+    text-align: center;
+    font-family: 'Inria Serif', serif;
+    background-color: rgb(254, 250, 251);
+    text-decoration: none;
+
+}
+
+/*--------------------------------------------------------------
+# About 2
+--------------------------------------------------------------*/
+.about {
+    padding: 0;
+    margin-top: 4px;
+  }
+  
+  .about .container {
+    background-color: #f7f8f9;
+    padding: 6px 5px;
+  }
+  .image1 {
+      box-sizing: border-box;
+      width: 50%;
+  }
+  @media (max-width: 992px) {
+    .about .container {
+      padding: 30px;
+    }
+  }
+  
+  .about .content h3 {
+    font-size: 1.5em;
+    font-family: 'Work Sans', sans-serif;
+    color: rgb(85,68,55);
+   
+  }
+  
+
+
+  
